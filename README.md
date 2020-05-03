@@ -17,8 +17,11 @@ Quality: from 1 to 10 where 10 is lossless. There is an example:
 Quality	DPI	Original zise	compressed size
 
 1	  100	 8.9MB	 2.59MB
+
 10	100	 8.9MB	 4.20MB
+
 1	  50	 8.9MB	 1.57MB
+
 
 Store the uploaded files in our own (NodeJS or Python) server.
 
