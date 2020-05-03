@@ -1,12 +1,18 @@
 # PDF-compactor
 Implement a web that allows users to upload a pdf file which might be huge (up to 30 MB) and return a compacted version of the file based on the user specified constraints (such as DPI).
-Tools
+
+#Tools
 
 frontend: 
+
 Bootstrap4 + HTML + jQuery+ CSS
+
 backend: 
+
 Node.js + express
+
 PDF Optimizer API : 
+
 PDFtron.
 
 #Functions
