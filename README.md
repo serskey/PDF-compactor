@@ -15,6 +15,7 @@ User can set Quality and DPI to get different compressed size.
 Quality: from 1 to 10 where 10 is lossless. There is an example:
 
 Quality	DPI	Original zise	compressed size
+
 1	  100	 8.9MB	 2.59MB
 10	100	 8.9MB	 4.20MB
 1	  50	 8.9MB	 1.57MB
@@ -45,6 +46,4 @@ $ node app.js
 Future Work
 
 we will add more functions, such as PDF convert, combining pdf, image compress ...
-More
-
-This project is for USC EE599 project. 😊    
+More  
