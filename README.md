@@ -10,6 +10,7 @@ PDF Optimizer API :
 PDFtron.
 
 #Functions
+
 User can set Quality and DPI to get different compressed size.
 
 Quality: from 1 to 10 where 10 is lossless. There is an example:
@@ -38,6 +39,7 @@ show the total Web Hit.
 Getting started
 
 #To get the Node server running locally:
+
 
 Clone this repo
 to install all required dependencies
